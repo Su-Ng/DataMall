@@ -5,3 +5,5 @@ This repository is created to learn more about how to use DataMall's API. Come a
 First I would like to explore what we can do with DataMall. The great thing about it is we can create really fun and interesting and we can find something really useful about it.
 ![images](https://github.com/Su-Ng/DataMall/tree/main/pictures/MapOfBusStop.png)
 
+<img src="https://github.com/Su-Ng/DataMall/tree/main/pictures/MapOfBusStop.png">
+
