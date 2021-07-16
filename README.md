@@ -9,3 +9,5 @@ First I would like to explore what we can do with DataMall. The great thing abou
 
 To further showcase what is achievable, we will  plot the pictures in 3 layers
 
+<img src=pictures/PlotArcGIS3Layers.png>
+
