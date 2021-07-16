@@ -11,3 +11,6 @@ To further showcase what is achievable, we will  plot the pictures in 3 layers
 
 <img src=pictures/PlotArcGIS3Layers.png>
 
+Here is some code to help along to extract code from LTAMall
+
+
