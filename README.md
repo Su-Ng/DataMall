@@ -7,3 +7,5 @@ First I would like to explore what we can do with DataMall. The great thing abou
 
 <img src=pictures/MapOfBusStop.png>
 
+To further showcase what is achievable, we will  plot the pictures in 3 layers
+
