@@ -6,7 +6,7 @@ This repository is created to showcase some visualisations to find out road cond
 
 What we know about this visualisation is the whereabouts of a the current location road works, heavy traffic and vehicle breakdown. 
 
-learn more about how to use DataMall's API. Come along with me in this incredible journey. To Learn more about what we can do with DataMall.
+On a good day when the traffic is smooth, there are fewer accidents. As there are fewer obstructions and driving tends to be easier when there are fewer danger spots. In addition, when faced with heavy traffic conditions, risky behaviours such as weaving in and out tends to happen, or faced with time pressure, such as morning rush hours, school zone hours, one tends to make mistakes. Or with many vehicles on a busy road, the likelihood of an accident happening may increase significantly.
 
 First I would like to explore what we can do with DataMall. The great thing about it is we can create a map that is interactive and let us gain some insights to it.
 
