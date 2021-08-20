@@ -4,10 +4,7 @@ This repository is created to showcase some visualisations to find out road cond
 
 <img src=pictures/VisualisationMap.png>
 
-
-
-
-
+What we know about this visualisation is the whereabouts of a the current location road works, heavy traffic and vehicle breakdown. 
 
 learn more about how to use DataMall's API. Come along with me in this incredible journey. To Learn more about what we can do with DataMall.
 
