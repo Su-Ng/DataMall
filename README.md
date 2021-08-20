@@ -1,6 +1,6 @@
 # DataMall
 
-This repository is created to showcase some visualisations to find out road condition on a particular day on the Singapore map.
+This repository is created to showcase some visualisations to find out road conditions on a particular day on the Singapore map.
 
 <img src=pictures/VisualisationMap.png>
 
