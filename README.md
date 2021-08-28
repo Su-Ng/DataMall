@@ -17,7 +17,7 @@ To further showcase what is achievable, we will  plot the pictures in 3 layers.
 
 <img src=pictures/PlotArcGIS3Layers.png>
 
-This visualisation shows one bus route(in blue) passing through the hotspots from LTA(in red) and from the accident database(in black). This project includes the extraction of data, data cleaning all the way to data visualisation. The data comes from various sources. The main purpose is to make improvements and recommendations to stakeholders.
+This visualisation shows one bus route(in blue) passing through the hotspots from LTA(in red) and from the accident database(in black). This project includes the extraction of data, data cleaning all the way to data visualisation. The data comes from various sources. The main purpose is to make improvements and recommendation to stakeholders.
 
 
 
