@@ -11,6 +11,7 @@ On a good day when the traffic is smooth, there are fewer accidents. As there ar
 First I would like to explore what we can do with DataMall. The great thing about it is we can create a map that is interactive and let us gain some insights to it.
 
 <img src=pictures/MapOfBusStop.png>
+This visualisation is showing all the bus stops plotted in different colours are the road names that are along the particular road. What we can see when we mouse over each stop is the latitude and longitude of the bus stop including other information available.
 
 To further showcase what is achievable, we will  plot the pictures in 3 layers.
 
