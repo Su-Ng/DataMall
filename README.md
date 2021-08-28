@@ -16,6 +16,7 @@ To further showcase what is achievable, we will  plot the pictures in 3 layers.
 
 <img src=pictures/PlotArcGIS3Layers.png>
 
+This visualisation shows one bus route(in blue) passing through the hotspots from LTA(in red) and from the accident database(in black).
 
 
 
