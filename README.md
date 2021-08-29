@@ -4,7 +4,7 @@ This repository is created to showcase some visualisations to find out road cond
 
 <img src=pictures/VisualisationMap.png>
 
-What we know about this visualisation is the whereabouts of a the current location road works, heavy traffic and vehicle breakdown. 
+What we know about this visualisation is the whereabouts of the current location road works, heavy traffic and vehicle breakdown. 
 
 On a good day when the traffic is smooth, there are fewer accidents. As there are fewer obstructions and driving tends to be easier when there are fewer danger spots. In addition, when faced with heavy traffic conditions, risky behaviours such as weaving in and out tends to happen, or faced with time pressure, such as morning rush hours, school zone hours, one tends to make mistakes. Or with many vehicles on a busy road, the likelihood of an accident happening may increase significantly.
 
